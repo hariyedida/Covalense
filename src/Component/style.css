@@ -1,0 +1,23 @@
+.content{
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 20px 40px;
+}
+
+td,tr,th{
+    text-align: left;
+    padding: 5px;
+}
+
+.search-container{
+    outline: none;
+}
+
